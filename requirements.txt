@@ -24,7 +24,7 @@ ncclient==0.6.8
 netaddr==0.8.0
 netmiko==3.2.0
 ntc-templates==1.4.1
-paramiko==2.7.1
+paramiko==2.10.1
 passlib==1.7.2
 psycopg2==2.8.5
 psycopg2-binary==2.8.5
